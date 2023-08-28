@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{7E70844A-44CE-E8A7-ED13-50BA8C18ACAD}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "SOTUE",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"UMG"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "SOTVM",
+			"Enabled": true
+		}
+	]
+}
